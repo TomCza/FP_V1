@@ -85,6 +85,9 @@ public class MS1 {
             mineTile(randRow, randCol);
         }
     }
+    
+    
+    
 
     public String toString() {
         String s = "";
