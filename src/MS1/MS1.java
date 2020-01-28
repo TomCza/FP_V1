@@ -3,7 +3,7 @@ package MS1;
 import java.util.Random;
 
 public class MS1 {
-
+//commit
     public boolean[][] mines;
     public int[][] minedNeighbours;
     Random rand = new Random();
